@@ -1,1 +1,1 @@
-@pyw.exe C:\Python38\mcb.pyw %*
+@pyw.exe C:\Python34\mcb.pyw %*
